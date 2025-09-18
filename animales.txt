@@ -1,0 +1,13 @@
+leon 
+leoprado
+aguila
+condor
+halcon
+ballena
+camaron
+pulpo
+cerdo
+borrego
+cabra
+conejo
+escarabajo
